@@ -3,7 +3,7 @@ $dbhost = 'localhost';
 $dbname = 'social_network_db';
 $dbuser = 'siddharthmb';
 $dbpass = 'Sid@1990';
-$appname = 'MBPS, The Bhises...';
+$appname = 'Home Social Network -- A Project To Revise Stuff...';
 $dp_upload_dir = 'profile_pics_upload';
 
 mysql_connect($dbhost, $dbuser, $dbpass) or die(mysql_error());
